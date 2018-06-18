@@ -30,7 +30,7 @@ for your learners to practice in.
     (If you do not have an account, you can quickly create one for free.)
     You must be logged in for the remaining steps to work.
 
-2.  Go to <a href="https://github.com/new/import" target="_blank">GitHub's importer</a>.
+2.  Go to [GitHub's importer][importer].
 
 3.  Paste the url of this repo as the old repository to clone:
     <https://github.com/swcarpentry/workshop-template>.
@@ -165,7 +165,7 @@ you can do so as described below.
 At the top of your repository on GitHub you'll see
 
 ~~~
-No description, website, or topics provided. — Edit
+No description or website provided. — Edit
 ~~~
 
 Click 'Edit' and add:
